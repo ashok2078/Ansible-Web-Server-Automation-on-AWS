@@ -1,5 +1,8 @@
 # Ansible Web Server Automation on AWS  Notes  Follow below step 
 
+<img width="1362" height="672" alt="image" src="https://github.com/user-attachments/assets/427ef7c4-fc01-4779-a89f-888b0ed425a3" />
+
+
 ## 1. Create Project Directory
 
 Command 1
