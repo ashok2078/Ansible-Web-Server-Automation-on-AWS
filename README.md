@@ -2,6 +2,9 @@
 
 ########### Project Overview
 
+<img width="1362" height="672" alt="image" src="https://github.com/user-attachments/assets/ac70d3f1-dba5-4e46-b9cb-dc89aef26fee" />
+
+
 This project demonstrates Infrastructure Automation using Ansible on AWS EC2.
 
 ******* Technologies Used
