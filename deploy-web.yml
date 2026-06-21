@@ -1,0 +1,14 @@
+---
+- name: Deploy Website
+  hosts: web
+  become: yes
+
+  tasks:
+
+    - name: Copy index page
+      copy:
+        src: index.html
+        dest: /var/www/html/index.html
+        owner: root
+        group: root
+        mode: '0644'
